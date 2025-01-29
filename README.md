@@ -39,22 +39,22 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img width="1440" alt="CONFIGURE FIREWALL AGINST ICMP" src="https://github.com/user-attachments/assets/ace62640-f394-4895-a833-82ab9d768961" />
 </p>
 <p>
-Configured the firewall of the Mac to deny ICMPv4 data to test altering the firewall and to test blocking specific unwanted information. 
+Configured the firewall of the Mac to deny ICMPv4 data to test altering the firewall and to test blocking specific unwanted information.
 </p>
 <br />
 
 <p>
-  <img width="1440" alt="Successful OsTicket Login" src="https://github.com/user-attachments/assets/fb37f7e7-64ec-410a-9897-cf01729d7992" />
+<img width="1440" alt="DHCP TRAFFIC THROU RENEW PUBLIC IP ADDRESS" src="https://github.com/user-attachments/assets/dda1da7f-4dcb-46bc-b7f1-56ca4e738dde" />
 </p>
 <p>
-  After a successful installation and login, the first panel you access is the ticketing panel where all end-user and agents' current tickets will be displayed.
+This test was to track DHCP information coming in and out of the Windows PC. Through the command IPCONFIG /RENEW it allowed for the public IP address to get readministered. Wireshark allows us to see traffic between the pc and the DHCP Server.
 </p>
 <br />
 <p>
-  <img width="1440" alt="Successful OsTicket Login" src="https://github.com/user-attachments/assets/fb37f7e7-64ec-410a-9897-cf01729d7992" />
+<img width="1440" alt="DNS TRAFFIC SEARCHING THROUGH INTERWEBS" src="https://github.com/user-attachments/assets/9d8ac49f-3e7b-4a19-8970-b443d86954ed" />
 </p>
 <p>
-  After a successful installation and login, the first panel you access is the ticketing panel where all end-user and agents' current tickets will be displayed.
+ This test allows us to see our DNS Traffic. In Powershell, we look up an example website like Google.com, where we then see all the traffic on the backend through Wireshark of how information is received and sent.
 </p>
 <br />
 <p>
