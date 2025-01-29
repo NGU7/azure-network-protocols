@@ -58,9 +58,9 @@ This test was to track DHCP information coming in and out of the Windows PC. Thr
 </p>
 <br />
 <p>
-  <img width="1440" alt="Successful OsTicket Login" src="https://github.com/user-attachments/assets/fb37f7e7-64ec-410a-9897-cf01729d7992" />
+<img width="1440" alt="TCP PORT 3389 TRAFFIC OR Remote PC Traffic " src="https://github.com/user-attachments/assets/97d6a81c-3e09-4fd7-9f29-81536acf2619" />
 </p>
 <p>
-  After a successful installation and login, the first panel you access is the ticketing panel where all end-user and agents' current tickets will be displayed.
+And lastly, we check for TCP port 3389 or the Remote Desktop Protocol (RDP) connection. This connection monitors all the movements made on the computer through Remote Desktop whether it's typing or moving the mouse all that goes through TCP port 3389 which displays thousands of bits of data at a time as can be seen on the left.
 </p>
 <br />
