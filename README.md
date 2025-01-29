@@ -36,14 +36,27 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <br />
 
 <p>
-<img width="1440" alt="Screen Shot 2025-01-22 at 5 59 48 PM" src="https://github.com/user-attachments/assets/06e4fb4e-8616-42f1-9885-ea815c8e0626" />
-
+<img width="1440" alt="CONFIGURE FIREWALL AGINST ICMP" src="https://github.com/user-attachments/assets/ace62640-f394-4895-a833-82ab9d768961" />
 </p>
 <p>
-Once the prerequisites are complete the web server will display green checkmarks allowing you to continue into the ticketing system. From here we create the name of our help desk as well as our admin overseer to manage our ticketing system.
+Configured the firewall of the Mac to deny ICMPv4 data to test altering the firewall and to test blocking specific unwanted information. 
 </p>
 <br />
 
+<p>
+  <img width="1440" alt="Successful OsTicket Login" src="https://github.com/user-attachments/assets/fb37f7e7-64ec-410a-9897-cf01729d7992" />
+</p>
+<p>
+  After a successful installation and login, the first panel you access is the ticketing panel where all end-user and agents' current tickets will be displayed.
+</p>
+<br />
+<p>
+  <img width="1440" alt="Successful OsTicket Login" src="https://github.com/user-attachments/assets/fb37f7e7-64ec-410a-9897-cf01729d7992" />
+</p>
+<p>
+  After a successful installation and login, the first panel you access is the ticketing panel where all end-user and agents' current tickets will be displayed.
+</p>
+<br />
 <p>
   <img width="1440" alt="Successful OsTicket Login" src="https://github.com/user-attachments/assets/fb37f7e7-64ec-410a-9897-cf01729d7992" />
 </p>
