@@ -28,10 +28,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-  <img width="1440" alt="osTicket Preinstall Checklist" src="https://github.com/user-attachments/assets/71fd7e3d-9470-402b-a7b9-75dbad07e469" />
+<img width="1440" alt="ICMP PING CONNECTION TEST" src="https://github.com/user-attachments/assets/7e5956a3-aa85-458b-a795-df58906f385e" />
 </p>
 <p>
-  Before using osTicket, an installation process is required before it is an accessible web server. OsTicket Requires a web server to be installed and configured. It also requires you to download PHP, MySQL, and Heidi to construct a backend database for the Web Server.
+  Using the PING command in Windows Powershell to communicate between a Windows PC and a Mac to test if both are on the same network(They are). The app Wireshark in the back is used to track the specific TCP port used for the PING command.
 </p>
 <br />
 
